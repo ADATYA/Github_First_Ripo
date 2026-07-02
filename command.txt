@@ -1,0 +1,7 @@
+# echo "# Github_First_Ripo" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ADATYA/Github_First_Ripo.git
+git push -u origin main
